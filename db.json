@@ -1,0 +1,41 @@
+{
+  "allowance_order": [
+    {
+      "id": 1,
+      "createdAt": 1620425866883,
+      "total": 60000,
+      "employeeCount": 1,
+      "allowances": [
+        {
+          "fullName": "Adilsson Galvão",
+          "amounts": [
+            {
+              "category": "MEAL",
+              "amount": 1000
+            },
+            {
+              "category": "TRANSPORTATION",
+              "amount": 1000
+            },
+            {
+              "category": "FOOD",
+              "amount": 1000
+            },
+            {
+              "category": "HEALTH",
+              "amount": 1000
+            },
+            {
+              "category": "EDUCATION",
+              "amount": 1000
+            },
+            {
+              "category": "CULTURE",
+              "amount": 1000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
